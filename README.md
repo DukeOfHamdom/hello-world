@@ -1,5 +1,5 @@
 # hello-world
 just another repository it says
 
-Ningen -domo
-i have come to smite thee lil-biches.
+Test of the testing test
+this is just a test that tests the test that we are testing.
